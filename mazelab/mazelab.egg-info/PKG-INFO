@@ -1,13 +1,10 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: mazelab
 Version: 0.2.0
 Summary: mazelab: A customizable framework to create maze and gridworld environments.
 Home-page: https://github.com/zuoxingdong/mazelab
 Author: Xingdong Zuo
 Author-email: zuoxingdong@hotmail.com
-License: UNKNOWN
-Description: UNKNOWN
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
